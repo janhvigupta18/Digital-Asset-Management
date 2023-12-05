@@ -4,7 +4,7 @@ This Full Stack project is a cutting-edge digital asset management (DAM) applica
 
 ## Introduction
 
-Managing digital assets such as images can be a challenging task, especially as the volume of content grows. The DAM App addresses this challenge by providing a user-friendly platform that combines image storage, modification, and intelligent tagging in 1 seamless experience.
+Managing digital assets such as images can be a challenging task, especially as the volume of content grows. The DAM App addresses this challenge by providing a user-friendly platform that combines image storage, modification, and intelligent tagging in one seamless experience.
 
 ## Features
 
